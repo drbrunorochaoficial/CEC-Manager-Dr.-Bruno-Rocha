@@ -1,0 +1,5 @@
+{
+  "name": "CEC Planner - Dr. Bruno Rocha",
+  "description": "Aplicativo para planejamento de materiais de Circulação Extracorpórea (CEC) baseado no peso do paciente.",
+  "requestFramePermissions": []
+}
